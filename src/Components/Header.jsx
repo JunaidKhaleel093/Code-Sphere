@@ -6,7 +6,7 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <Link to="/" className="flex items-center space-x-2 text-2xl font-bold text-[#105a63]">
-<img src="/images/Code1_Logo.png" alt="Logo" className="w-16 h-18 hidden sm:block" />
+<img src="/src/assets/images/Code1_Logo.png" alt="Logo" className="w-16 h-18 hidden sm:block" />
             <span>CodeSphere</span>
           </Link>
           <div className="flex space-x-4">
