@@ -31,7 +31,7 @@ function Article2() {
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
         <img
-          src="https://drive.google.com/file/d/1oRjTrSZZIy61mcvcT9DK4lFWCrQMAZOb/view?usp=drive_link"
+          src="https://cdn.pixabay.com/photo/2019/10/17/21/36/badminton-4557886_640.jpg"
           alt="Post-match celebration"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
