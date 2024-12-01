@@ -14,9 +14,3 @@ export default function Header() {
             <Link to="/" className="text-gray-700 hover:text-gray-900 px-3 py-2">Home</Link>
             <Link to="/blog" className="text-gray-700 hover:text-gray-900 px-3 py-2">Blog</Link>
             <Link to="/about" className="text-gray-700 hover:text-gray-900 px-3 py-2">About</Link>
-          </div>
-        </div>
-      </nav>
-    </header>
-  );
-}
