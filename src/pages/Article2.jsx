@@ -31,7 +31,7 @@ function Article2() {
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
         <img
-          src="/images/ActionFull.JPG"
+          src="https://drive.google.com/file/d/1oRjTrSZZIy61mcvcT9DK4lFWCrQMAZOb/view?usp=drive_link"
           alt="Post-match celebration"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
