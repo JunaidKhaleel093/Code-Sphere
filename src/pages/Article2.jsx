@@ -16,27 +16,27 @@ function Article2() {
       {/* Image Gallery */}
       <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <img
-          src="/images/Junaid.JPG"
+          src="https://res.cloudinary.com/dsgwuim2d/image/upload/v1733075204/Junaid_wyup3s.jpg"
           alt="Playing in a tournament"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
         <img
-          src="/images/Me Action.png"
+          src="https://res.cloudinary.com/dsgwuim2d/image/upload/v1733075155/Me_Action_l38kbf.png"
           alt="Celebrating a win"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
         <img
-          src="/images/team.jpg"
+          src="https://res.cloudinary.com/dsgwuim2d/image/upload/v1733075207/team_vv3kgo.jpg"
           alt="In action during a match"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
         <img
-          src="/images/ActionFull.JPG"
+          src="https://res.cloudinary.com/dsgwuim2d/image/upload/v1733075214/ActionFull_bjvy7n.jpg"
           alt="Post-match celebration"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
         <img
-          src="/images/Action4.JPG"
+          src="https://res.cloudinary.com/dsgwuim2d/image/upload/v1733076654/Action4_n4wbb9.jpg"
           alt="Training drills"
           className="w-full rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition-transform duration-300"
         />
@@ -51,7 +51,7 @@ function Article2() {
         <div className="flex flex-col sm:flex-row justify-center items-center gap-6 mt-6">
           {/* Horizontal Video */}
           <video
-            src="/images/MyPractice.mp4"
+            src="https://res.cloudinary.com/dsgwuim2d/video/upload/v1733077508/MyPractice_zou6f6.mp4"
             controls
             className="w-full sm:w-1/2 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
           >
@@ -59,7 +59,7 @@ function Article2() {
           </video>
           {/* Vertical Video */}
           <video
-            src="/images/Shots.mp4"
+            src="https://res.cloudinary.com/dsgwuim2d/video/upload/v1733075203/Shots_uaxtm5.mp4"
             controls
             className="w-full sm:w-1/4 aspect-[9/16] rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
           >
