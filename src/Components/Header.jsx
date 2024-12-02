@@ -16,7 +16,7 @@ export default function Header() {
             <img
               src="https://res.cloudinary.com/dsgwuim2d/image/upload/v1733075152/Code1_Logo_jqky2r.png"
               alt="Logo"
-              className="w-10 h-10 sm:w-16 sm:h-18"
+              className="w-12 h-14 sm:w-16 sm:h-18"
             />
             <span>CodeSphere</span>
           </Link>
