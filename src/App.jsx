@@ -20,8 +20,8 @@ function App() {
             <Route path="/blog" element={<Blog />} />
             <Route path="/article-2" element={<Article2 />} />
             <Route path="/about" element={<About />} />
-            <Route exact path="/" component={FeaturedPost} />
-            <Route path="/full-article" element={<FullArticle />} /> 
+            <Route path="/" element={<FeaturedPost />} />
+            <Route path="/full-article" element={<FullArticle />} />
           </Routes>
         </main>
       </div>
